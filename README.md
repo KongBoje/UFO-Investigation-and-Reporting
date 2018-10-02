@@ -2,6 +2,11 @@
 ## LinQ Exercise
 
 ### 30-min diary
+- 00:00: Installing and setting up linQ, Exercise understandment and searched for some example pages related to this exercise
+- 00:30: connection to the database and understanding linq queries to SQL
+- 01:00: Finding out about Client-side-joins, how it is used and how to prevent it from being used in LinQ and mySQL
+- 01:30: Writing the exercise and layout of the answers to this exercise
+
 
 ### List of Google Queries
 - 15.01   linq - Google-søgning                                   www.google.dk
@@ -14,7 +19,19 @@
 - 16.38   linq to sql - Google-søgning                            www.google.dk
 
 ### List of all pages visited
-
+- LINQPad - The .NET Programmer's Playground                                                      www.linqpad.net
+- Download LINQPad                                                                                www.linqpad.net
+- ubuntu - How to connect to digitalocean mysql server - Stack Overflow                           www.stackoverflow.com
+- Sample LINQ Queries                                                                             www.tutorialsteacher.com
+- Code Editor                                                                                     www.tutorialsteacher.com
+- mysql - Which is better in performance client side joins or server side joins - Stack Overflow  www.stackoverflow.com
+- Standard Query Operator Translation | Microsoft Docs                                            docs.microsoft.com
+- LINQ Query Syntax                                                                               www.tutorialsteacher.com
+- Don’t use Linq’s Join. Navigate! | Passion for Coding                                           coding.abel.nu
+- How can I connect to MySQL via LinqPad? - Stack Overflow                                        www.stackoverflow.com
+- Entity Framework: Prevent redundant JOINs - watch your LINQ ! - Pawel Gerr's Blog               weblogs.thinktecture.com
+- mysql - Which is better in performance client side joins or server side joins - Stack Overflow  www.stackoverflow.com
+- mysql - How to avoid Multiple joins for better performance? - Stack Overflow                    www.stackoverflow.com
 
 
 ### 3 most biggest problems encountered and longest to solve
@@ -26,4 +43,5 @@
 
 ### How to avoid problems like these in the future
 I don't really know how to exactly answer this question but probably rely more on comments and posts on the blocks and articles you search for. Sometimes I just looked at the block and moved on which was a mistake on my part.
+And just use Stackoverflow some more.
 
