@@ -1,5 +1,6 @@
 # UFO-Investigation-and-Reporting
 ## LinQ Exercise
+- https://datsoftlyngby.github.io/soft2018fall/UFO/01TheoryLittRevReflect.html
 
 ### 30-min diary
 - 00:00: Installing and setting up linQ, Exercise understandment and searched for some example pages related to this exercise
