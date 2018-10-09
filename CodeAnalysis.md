@@ -6,7 +6,8 @@
 I ran the analysis with the following command: "./run.sh pmd -d ~/Documents/NetBeansProjects/Gutenberg-book-project -R category/java/codestyle.xml -f html > ~/pmdresult.html" on this project:
 - https://github.com/KongBoje/Gutenberg-book-project
 
-- PMD Report link
+I got the following PMD report on this project with the category being condestyle.xml:
+- https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/PMDReport.pdf
 
 - report on the 10 checks chosen and why
 
