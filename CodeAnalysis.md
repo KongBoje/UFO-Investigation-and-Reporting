@@ -30,7 +30,7 @@ So in this exercise I decided to use another project called Critical-Path-Method
 - https://github.com/KongBoje/Critical-Path-Method
 
 I ran the profiling on netbeans and got the following results:
-- Screen dumb of the Telemtry in this project
+- Screen dumb of the Telemetry in this project
 ![Telemetry](https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/Telemetry.JPG)
 - Screen dumb of the profiling on the projects Methods:
 ![Methods](https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/MethodsTime.JPG)
