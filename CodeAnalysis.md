@@ -23,7 +23,7 @@ By default this rule uses the standard Java naming convention (Pascal case), and
 - 10: **ConfusingTernary** - Avoid negation within an “if” expression with an “else” clause. For example, rephrase: if (x != y) diff(); else same(); as: if (x == y) same(); else diff();.
 Most “if (x != y)” cases without an “else” are often return cases, so consistent use of this rule makes the code easier to read. Also, this resolves trivial ordering problems, such as “does the error case go first?” or “does the common case go first?”.
 
-##### I think all of these 10 checks are important in your code, since they make the code easy to navigate in and also probably slight faster.
+#### I think all of these 10 checks are important in your code, since they make the code easier to navigate in and also probably slight faster.
 
 ### Exercise 2
 - Source code link
