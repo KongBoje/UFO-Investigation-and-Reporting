@@ -26,6 +26,16 @@ Most “if (x != y)” cases without an “else” are often return cases, so co
 #### I think all of these 10 checks are important in your code, since they make the code easier to navigate in and also probably slight faster.
 
 ### Exercise 2
-- Source code link
-- Report on profile result and explain what is seen.
+So in this exercise I decided to use another project called Critical-Path-Method, which is an algorithm for scheduling a set of project activities:
+- https://github.com/KongBoje/Critical-Path-Method
+
+I ran the profiling on netbeans and got the following reult:
+- Screen dumb of the Telemtry in this project
+<picture>
+- Screen dumb of the profiling on the projects Methods:
+<picture>
+- Screen dumb of the profiling on the projects Objects
+<picture>
+
+
 - Micro-benchmark if possible
