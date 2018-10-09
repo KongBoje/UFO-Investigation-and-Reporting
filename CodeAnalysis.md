@@ -9,7 +9,9 @@ I ran the analysis with the following command: "./run.sh pmd -d ~/Documents/NetB
 I got the following PMD report on this project with the category being condestyle.xml:
 - https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/PMDReport.pdf
 
-- report on the 10 checks chosen and why
+I have picked the 10 following checks which I think are important when viewing codestyle:
+- 1: OnlyOneReturn - A method should have only one exit point, and that should be the last statement in the method.
+- 2: 
 
 ### Exercise 2
 - Source code link
