@@ -4,7 +4,6 @@
 
 ### Exercise 1
 I ran the command: ./run.sh pmd -d ~/Documents/NetBeansProjects/Gutenberg-book-project -R category/java/codestyle.xml -f html > ~/pmdresult.html on the following project:
-
 - https://github.com/KongBoje/Gutenberg-book-project
 
 - PMD Report link
