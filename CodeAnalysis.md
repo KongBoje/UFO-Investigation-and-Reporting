@@ -1,3 +1,13 @@
 # UFO-Code Analysis
-### Exercise
-- d
+### Exercise page
+- https://datsoftlyngby.github.io/soft2018fall/UFO/02-CodeAnalysis.html
+
+### Exercise 1
+- Source code link
+- PMD Report link
+- report on the 10 checks chosen and why
+
+### Exercise 2
+- Source code link
+- Report on profile result and explain what is seen.
+- Micro-benchmark if possible
