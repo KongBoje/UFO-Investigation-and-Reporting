@@ -31,7 +31,7 @@ So in this exercise I decided to use another project called Critical-Path-Method
 
 I ran the profiling on netbeans and got the following reult:
 - Screen dumb of the Telemtry in this project
-<picture>
+![Telemetry](https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/Telemetry.JPG)
 - Screen dumb of the profiling on the projects Methods:
 <picture>
 - Screen dumb of the profiling on the projects Objects
