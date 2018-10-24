@@ -26,7 +26,7 @@ Now we want to ping for these IP servers and get their response time measures. T
 When you want to run the experiment you just simply need to run the python file PingApp.py with "python PingApp.py". Python of course needs to be installed on you OS for it to run.
 
 ### Experiment execution
-After the experiment is run you get the following results:
+After the experiment is run we get the following results:
 ![Ping Results](https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/PingResults.JPG)
 
 
