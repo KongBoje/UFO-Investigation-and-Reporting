@@ -27,7 +27,7 @@ When you want to run the experiment you just simply need to run the python file 
 
 ### Experiment execution
 After the experiment is run you get the following results:
-
+![Ping Results]()
 
 
 ### Experiment evaluation
