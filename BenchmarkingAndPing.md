@@ -40,3 +40,5 @@ I guess it's measured here in seconds.
 So when we see on our experiment it gave us the right expected results. The server farthest from Denmark 128.199.144.199, which was Singapore, had the highest Ping while the server 46.101.253.149 in Germany had the lowest Ping.
 
 ### Discussion
+As Peter Sestoft says in his benchmarking pdf there are many things that can disturb the trafficking when trying to connect to a server or trying to get response times, which some of them would be when other proccesses are running at the same time or if the traffic with the internet connection is heavy. This however is completely avoided since we only ping for the servers to get response and don't try to measure our whole program.
+This ping command is simply for testing the reachability of a host.
