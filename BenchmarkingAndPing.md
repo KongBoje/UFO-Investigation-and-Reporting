@@ -29,6 +29,11 @@ When you want to run the experiment you just simply need to run the python file 
 After the experiment is run we get the following results:
 ![Ping Results](https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/PingResults.JPG)
 
+So as seen on the picture we get these results, it shows the pinged servers and their response time with an amount of 100.
+- Singapore: 11.09
+- United States: 7.21
+- Germany: 1.07
+I guess it's measured here in seconds.
 
 ### Experiment evaluation
 
