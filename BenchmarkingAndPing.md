@@ -32,7 +32,7 @@ After the experiment is run we get the following results:
 So as seen on the picture we get these results, it shows the pinged servers and their response time with an amount of 100.
 - Singapore: 11.09
 - United States: 7.21
-- Germany: 1.07
+- Germany: 1.07 </br>
 I guess it's measured here in seconds.
 
 ### Experiment evaluation
