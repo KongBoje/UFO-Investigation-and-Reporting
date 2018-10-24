@@ -32,9 +32,11 @@ After the experiment is run we get the following results:
 So as seen on the picture we get these results, it shows the pinged servers and their response time with an amount of 100.
 - Singapore: 11.09
 - United States: 7.21
-- Germany: 1.07</br>
+- Germany: 1.07
+
 I guess it's measured here in seconds.
 
 ### Experiment evaluation
+So when we see on our experiment it gave us the right expected results. The server farthest from Denmark 128.199.144.199, which was Singapore, had the highest Ping while the server 46.101.253.149 in Germany had the lowest Ping.
 
 ### Discussion
