@@ -16,8 +16,8 @@ So what we need to be done is to find the location of these three server IPs, wh
 
 I found a website called https://www.iplocation.net/ where I could find the locations of these servers, which are as follows:
 - 128.199.144.199 | Singapore
-- 167.99.51.33 | United States, New Jersey, Clifton
-- 46.101.253.149 | Germany, Hessen, Frankfurt am Main
+- 167.99.51.33    | United States, New Jersey, Clifton
+- 46.101.253.149  | Germany, Hessen, Frankfurt am Main
 
 This also makes sense when pinging since Singapore takes the most time to ping because it's the farthest country from Denmark, then the United states server and of course the German server would be closest. 
 
