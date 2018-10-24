@@ -29,13 +29,14 @@ Most “if (x != y)” cases without an “else” are often return cases, so co
 So in this exercise I decided to use another project called Critical-Path-Method, which is an algorithm for scheduling a set of project activities:
 - https://github.com/KongBoje/Critical-Path-Method
 
-I ran the profiling on netbeans and got the following reult:
-- Screen dumb of the Telemtry in this project
-<picture>
+I ran the profiling on netbeans and got the following results:
+- Screen dumb of the Telemetry in this project
+![Telemetry](https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/Telemetry.JPG)
 - Screen dumb of the profiling on the projects Methods:
-<picture>
+![Methods](https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/MethodsTime.JPG)
 - Screen dumb of the profiling on the projects Objects
-<picture>
+![Objects](https://github.com/KongBoje/UFO-LinQ-Investigations/blob/master/files/ObjectsProfiling.png)
 
+#### So by doing this profiling we can see a Performance Overview on this project which would be how much CPU, memory and Threads are being used. All this were done live, so data can be gathered as long as the program is running. 
 
-- Micro-benchmark if possible
+- Haven't done a Micro-Benchmark.
